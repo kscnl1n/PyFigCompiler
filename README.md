@@ -1,0 +1,2 @@
+        This is a simple compiler written in python, created to understand the basics of the language as well as understand practical compiler design.
+        If you enjoyed using this project, take Charles Averill's practical compiler design course!
