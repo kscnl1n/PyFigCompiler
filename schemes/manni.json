@@ -1,0 +1,177 @@
+{
+    "general": {
+        "background": "#f0f3f3"
+    },
+
+    "selection": {
+    	"background": "#FFFF00",
+        "foreground": "#000000"
+    },
+
+    "syntax": {
+        "Token.Whitespace": "#bbbbbb",
+        "Token.Comment": {
+            "foreground":"#0099FF",
+            "font": {
+                "italic": true
+            }
+        },
+        "Token.Comment.Preproc": {
+            "foreground":"#009999",
+            "font": {
+                "italic": false
+            }
+        },
+        "Token.Comment.Special": {
+            "foreground":"#0099FF",
+            "font": {
+                "bold": true
+            }
+        },
+        "Token.Comment.Hashbang": {
+            "foreground":"#0099FF",
+            "font": {
+                "italic": true
+            }
+        },
+        "Token.Comment.Multiline": {
+            "foreground":"#CC3300",
+            "font": {
+                "italic": true
+            }
+        },
+        "Token.Comment.Preprocfile": {
+            "foreground":"#0099FF",
+            "font": {
+                "italic": true
+            }
+        },
+        "Token.Comment.Single": {
+            "foreground":"#0099FF",
+            "font": {
+                "italic": true
+            }
+        },
+
+        "Token.Keyword": {
+            "foreground":"#006699",
+            "font": {
+                "bold": true
+            }
+        },
+        "Token.Keyword.Pseudo": {
+            "font": {
+                "bold": false
+            }
+        },
+        "Token.Keyword.Type": "#007788",
+
+        "Token.Operator": "#555555",
+        "Token.Operator.Word": {
+            "foreground":"#000000",
+            "font": {
+                "bold": true
+            }
+        },
+
+        "Token.Name.Builtin": "#336666",
+        "Token.Name.Function": "#CC00FF",
+        "Token.Name.Class": {
+            "foreground": "#00AA88",
+            "font": {
+                "underline": true
+            }
+        },
+        "Token.Name.Namespace": {
+            "foreground": "#00CCFF",
+            "font": {
+                "underline": true
+            }
+        },
+        "Token.Name.Exception": {
+            "foreground": "#CC0000",
+            "font": {
+                "underline": true
+            }
+        },
+        "Token.Name.Variable": "#003333",
+        "Token.Name.Constant": "#336600",
+        "Token.Name.Label": "#9999FF",
+        "Token.Name.Entity": {
+            "foreground": "#999999",
+            "font": {
+                "underline": true
+            }
+        },
+        "Token.Name.Attribute": "#330099",
+        "Token.Name.Tag": {
+            "foreground": "#330099",
+            "font": {
+                "underline": true
+            }
+        },
+        "Token.Name.Decorator": {
+            "foreground": "#9999FF",
+            "font": {
+                "underline": true
+            }
+        },
+
+        "Token.String": "#CC3300",
+        "Token.String.Doc": {
+            "font": {
+                "italic": true
+            }
+        },
+        "Token.String.Interpol": "#AA0000",
+        "Token.String.Escape": {
+            "foreground": "#CC3300",
+            "font": {
+                "bold": true
+            }
+        },
+        "Token.String.Regex": "#33AAAA",
+        "Token.String.Symbol": "#FFCC33",
+        "Token.String.Other": "#CC3300",
+
+        "Token.Number": "#FF6600",
+
+        "Token.Generic.Heading": {
+            "foreground":"#003300",
+            "font": {
+                "bold": true
+            }
+        },
+        "Token.Generic.Subheading": {
+            "foreground":"#003300",
+            "font": {
+                "bold": true
+            }
+        },
+        "Token.Generic.Error": "#FF0000",
+        "Token.Generic.Emph": {
+            "font": {
+                "italic": true
+            }
+        },
+        "Token.Generic.Strong": {
+            "font": {
+                "bold": true
+            }
+        },
+        "Token.Generic.EmphStrong": {
+            "font": {
+                "italic": true,
+                "bold": true
+            }
+        },
+        "Token.Generic.Prompt": {
+            "foreground":"#000099",
+            "font": {
+                "bold": true
+            }
+        },
+        "Token.Generic.Output": "#AAAAAA",
+        "Token.Generic.Traceback": "#99CC66"
+    }
+}

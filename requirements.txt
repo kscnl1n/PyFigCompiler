@@ -1,0 +1,2 @@
+Pygments==2.14.0
+tklinenums==1.7.0
